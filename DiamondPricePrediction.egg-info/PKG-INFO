@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: DiamondPricePrediction
-Version: 0.0.1
-Author: Nathan Kuissi
-Author-email: nategabrielk@icloud.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
